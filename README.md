@@ -1,4 +1,3 @@
-# Hallo, ich bin Bedir Han 👋
 
 **IT-Schüler an der HTL Krems (Informationstechnologie)** aus Österreich.
 
